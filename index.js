@@ -2,9 +2,9 @@
 const mineflayer = require('mineflayer');
 
 const bot = mineflayer.createBot({
-  host: 'your-minecraft-server-ip', // Replace with your server's IP
-  port: 25565,                      // Default Minecraft port
-  username: 'your-minecraft-username', // Replace with your Minecraft username
+  host: 'amxthqstx.aternos.me', // Replace with your server's IP
+  port: 31893,                      // Default Minecraft port
+  username: 'amxthqstx', // Replace with your Minecraft username
   version: false                    // Automatically detects the version
 });
 
